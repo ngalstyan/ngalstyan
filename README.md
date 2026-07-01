@@ -9,7 +9,7 @@ Quantitative finance, stochastic modeling, and statistical inference — buildin
 Mathematical finance (martingales, risk-neutral pricing, Black–Scholes), stochastic calculus, and volatility modeling.
 
 ### Selected projects
-- **[Bayesian PGA Tour Matchup Prediction System](https://github.com/ngalstyan/Bayesian-PGA-Tour-matchup-prediction-system)** — Hierarchical Bayesian strokes-gained model with Monte Carlo tournament simulation, de-vigging, and fractional-Kelly sizing. Validated on a 2023–2024 holdout (56.6% win rate, +6.0% ROI, Sharpe 1.48).
+- **[Bayesian PGA Tour Matchup Prediction System](https://github.com/ngalstyan/Bayesian-PGA-Tour-matchup-prediction-system)** — Hierarchical Bayesian strokes-gained model with Monte Carlo tournament simulation, de-vigging, and fractional-Kelly sizing. Validated on a 2023–2024 holdout.
 - *More coming as I migrate older work — GARCH/DCC volatility modeling, Benford's Law analysis on banking statements.*
 
 ### Reach me
